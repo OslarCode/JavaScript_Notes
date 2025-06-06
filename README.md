@@ -9,8 +9,6 @@ Cada carpeta o archivo corresponde a un tema fundamental del lenguaje. Los conte
 
 ### Temario general:
 
-### Temario general:
-
 1. Introducción
 2. ¿Por qué JavaScript?
 3. Ubicación de los archivos JavaScript
