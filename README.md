@@ -9,19 +9,48 @@ Cada carpeta o archivo corresponde a un tema fundamental del lenguaje. Los conte
 
 ### Temario general:
 
-1. 📌 [Introducción y conceptos básicos](01-introduccion.md)
-2. 🧠 [Variables, tipos de datos y operadores](02-variables.md)
-3. 🔁 [Condicionales y estructuras de control](03-condicionales.md)
-4. 🔂 [Bucles e iteraciones](04-bucles.md)
-5. 📦 [Funciones y scope](05-funciones.md)
-6. 🧱 [Objetos y arrays](06-objetos-arrays.md)
-7. 🖥️ [Manipulación del DOM](07-dom.md)
-8. 🧰 [Eventos y formularios](08-eventos.md)
-9. 🌐 [Asincronía: Callbacks, Promesas y Async/Await](09-asincronia.md)
-10. 🔧 [Módulos y buenas prácticas](10-modulos.md)
-11. 📦 [Herramientas del ecosistema (npm, bundlers, etc.)](11-herramientas.md)
-12. 🧪 [Proyectos y ejercicios prácticos](12-ejercicios.md)
-
+1. Introducción
+2. ¿Por qué JavaScript?
+3. Ubicación de los archivos JavaScript
+4. Sintaxis JavaScript
+5. Tipos de datos
+6. Comentarios
+7. Variables
+8. Let
+9. Const
+10. Let VS Var
+11. Ámbito de variables
+12. Console.log()
+13. Hoisting
+14. Operadores
+15. Funciones
+16. Objetos
+17. Eventos
+18. Strings
+19. Números
+20. Arrays
+21. Fechas
+22. Math
+23. Booleanos
+24. If/Else
+25. Switch
+26. For
+27. While
+28. Break & Continue
+29. Iterables
+30. Sets
+31. Typeof
+32. Expresiones Regulares
+33. Clases
+34. DOM
+35. Maps
+36. Módulos
+37. Depuración del código
+38. Asincronía
+39. Generators
+40. Proxies
+41. API Rest
+42. Programación orientada a objetos
 
 ## 🎯 Objetivos
 
