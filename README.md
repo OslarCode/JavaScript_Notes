@@ -1,19 +1,13 @@
-===============================================================================
-                          NOTAS DE JAVASCRIPT - REPOSITORIO
-===============================================================================
+# 📘 Notas de JavaScript
 
-Este repositorio contiene una recopilación estructurada de apuntes y resúmenes
-sobre el lenguaje de programación JAVASCRIPT. El contenido está organizado en
-archivos Markdown (.md) para facilitar su lectura, mantenimiento y consulta.
+Este repositorio contiene una recopilación estructurada de mis apuntes y resúmenes sobre **JavaScript**, extraídos de mis estudios y prácticas en Notion. Están organizados en archivos Markdown para facilitar su lectura, mantenimiento y compartición.
 
--------------------------------------------------------------------------------
-                               CONTENIDO DEL CURSO
--------------------------------------------------------------------------------
 
-Cada carpeta o archivo aborda un tema fundamental del lenguaje con ejemplos
-prácticos y explicaciones claras.
+## 📚 Contenido
 
-TEMARIO GENERAL:
+Cada carpeta o archivo corresponde a un tema fundamental del lenguaje. Los contenidos están explicados con ejemplos reales, teoría clara y notas personales.
+
+### Temario general:
 
 01. INTRODUCCIÓN
 02. ¿POR QUÉ JAVASCRIPT?
@@ -40,57 +34,50 @@ TEMARIO GENERAL:
 23. ASINCRONÍA / GENERATORS / PROXIES / API REST
 24. PROGRAMACIÓN ORIENTADA A OBJETOS
 
--------------------------------------------------------------------------------
-                                 OBJETIVOS
--------------------------------------------------------------------------------
+## 🎯 Objetivos
 
-- PROPORCIONAR UNA GUÍA DE REFERENCIA CLARA Y ORDENADA.
-- FACILITAR EL APRENDIZAJE PROGRESIVO DE JAVASCRIPT.
-- SERVIR COMO BASE PARA TUTORIALES, CURSOS O PRESENTACIONES.
+- Tener una guía de referencia rápida y ordenada para repasar JavaScript.
+- Ayudar a estudiantes y desarrolladores principiantes a aprender de forma clara y progresiva.
+- Servir como base para futuros tutoriales, presentaciones o cursos.
 
--------------------------------------------------------------------------------
-                                PÚBLICO DESTINATARIO
--------------------------------------------------------------------------------
 
-- ESTUDIANTES DE DESARROLLO WEB
-- PARTICIPANTES EN BOOTCAMPS
-- PERSONAS EN FORMACIÓN AUTODIDACTA
-- DESARROLLADORES QUE DESEEN REPASAR FUNDAMENTOS
+## 🧠 Público objetivo
 
--------------------------------------------------------------------------------
-                           TECNOLOGÍAS RELACIONADAS
--------------------------------------------------------------------------------
+- Estudiantes de desarrollo web.
+- Personas en bootcamps o formación autodidacta.
+- Desarrolladores que buscan reforzar fundamentos.
 
-- HTML Y CSS PARA INTEGRACIÓN
-- CONSOLA DE NAVEGADOR PARA PRUEBAS
-- NODE.JS PARA EJEMPLOS BACKEND
 
--------------------------------------------------------------------------------
-                          INSTRUCCIONES DE USO
--------------------------------------------------------------------------------
+## 🛠️ Tecnologías relacionadas
 
-1. NAVEGA POR LOS ARCHIVOS .MD EN GITHUB.
-2. O CLONA EL REPOSITORIO LOCALMENTE:
+- HTML y CSS para ejemplos de integración.
+- Navegador y consola JS para pruebas.
+- Node.js para algunos ejemplos de backend.
 
-   > git clone https://github.com/TuUsuario/javascript-notes.git
 
-3. ABRE LOS ARCHIVOS EN TU EDITOR FAVORITO (VS CODE, TYPORA, OBSIDIAN...)
+## ⚡ Cómo usar este repositorio
 
--------------------------------------------------------------------------------
-                                 LICENCIA
--------------------------------------------------------------------------------
+1. Puedes navegar libremente por los archivos `.md` desde GitHub.
+2. También puedes clonarlo y abrirlo localmente:
+   
+   ```bash
+   
+   git clone https://github.com/TuUsuario/javascript-notes.git
+   ```
+4. Usa cualquier lector Markdown (VS Code, Typora, Obsidian) para leer cómodamente.
 
-Este contenido está publicado bajo LICENCIA MIT. Libre de uso con atribución.
 
--------------------------------------------------------------------------------
-                                 AUTOR
--------------------------------------------------------------------------------
+## 📌 Licencia
 
-Autor: @OslarCode
-Contacto: abre un "issue" o visita el perfil en GitHub.
+Este contenido está bajo la licencia **MIT**. Puedes usarlo, adaptarlo y compartirlo libremente con atribución.
 
--------------------------------------------------------------------------------
-                            ¿TE RESULTÓ ÚTIL?
--------------------------------------------------------------------------------
 
-⭐ DALE UNA ESTRELLA AL REPOSITORIO SI TE HA SERVIDO DE AYUDA.
+## 🙋‍♂️ Autor
+
+Creado y mantenido por [@OslarCode](https://github.com/OslarCode)
+📫 ¿Preguntas o sugerencias? Abre un issue o contáctame.
+
+
+## ⭐ Si te resulta útil...
+
+Dale una ⭐ al repositorio para que más personas lo encuentren 🙌
